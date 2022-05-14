@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and geovisualization
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on disaster management deep learning projects
-- 📫 How to reach me +263778005255
+- 📫 How to reach me +263778005255/ munyorodee@gmail.com
 
 <!---
 Munyorodee/Munyorodee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
